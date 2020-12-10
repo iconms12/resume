@@ -1,5 +1,5 @@
 ## 소개
-![profile](https://github.com/iconms12/markdown_homework/blob/master/resume/resume.PNG?raw=true)
+![profile](https://github.com/iconms12/markdown_homework/blob/master/resume/resume.PNG)
 - 이름: 손민성
 - 군필여부: 현역 예비군
 - 취미: 웹크롤링,NLP,엑셀프로그래밍
