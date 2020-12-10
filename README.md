@@ -82,13 +82,8 @@
 - firebase
 - Mysql
 
+### realtime_crime_detection
+[이동]<https://github.com/iconms12/Image_Captioning>
 
 ---
-
-## 진행중인 프로젝트
-
-### 웹캠을 이용한 범죄 인식 CCTV 프로그램 
-- Python 3.7
-- konlpy
-- OpenCV
 
