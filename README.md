@@ -82,8 +82,17 @@
 - firebase
 - Mysql
 
-### realtime_crime_detection
-[이동](https://github.com/iconms12/Image_Captioning)
+### **realtime_crime_detection**
+tensorflow
+linux
+gpu-server
+python
+yole-V4
+자세한 사항으로 [이동](https://github.com/iconms12/Image_Captioning)
+
+
 
 ---
-
+### **php와 javascript를 이용한 실시간 서버정보확인 사이트 **
+<img src='./resume/main.JPG' width="80" />
+<img src='./resume/action.JPG' width="80" />
