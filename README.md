@@ -63,7 +63,7 @@
 - konlpy
 - tensorflow
 
-<img src='./resume/1.JPG' width="300" />
+<img src='./resume/1.jpg' width="300" />
 
 ### **자바 학습 어플리케이션 프로그램 제작**
 - Android studio
