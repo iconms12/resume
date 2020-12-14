@@ -94,8 +94,10 @@ yole-V4
 ### **php와 javascript를 이용한 실시간 서버정보확인 사이트 **
 PHP
 JavaScript
-<img src='./resume/main.JPG' width="170" />
 <br>
+<br>
+<img src='./resume/main.JPG' width="170" />
+<br><br>
 <img src='./resume/action.JPG' width="170" />
 
 ---
