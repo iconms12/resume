@@ -44,26 +44,26 @@
 ---
 
 ## 진행했던 프로젝트
-<img src='./resume/project1.jpg' width="80" />
+<img src='./resume/project1.JPG' width="80" />
 
 ### **C++를 사용한 도난경보 애플리케이션**
 - C++
 
-<img src='./resume/project2.jpg' width="80" />
+<img src='./resume/project2.JPG' width="80" />
 
 ### **이미지 데이터를 String으로 바꾸어 분류문제 해결**
 - python 3.6
 - konlpy
 - openCV
 
-<img src='./resume/project3.jpg' width="80" />
+<img src='./resume/project3.JPG' width="80" />
 
 ### **단순한 분류문제를 사용한 Q&A프로그램 제작**
 - Python 3.7
 - konlpy
 - tensorflow
 
-<img src='./resume/1.jpg' width="80" />
+<img src='./resume/1.JPG' width="80" />
 
 ### **자바 학습 어플리케이션 프로그램 제작**
 - Android studio
@@ -96,8 +96,7 @@ PHP
 JavaScript
 <br>
 <br>
-<img src='./resume/main.JPG' width="170" />
+<img src='./resume/main.JPG' width="170"> &nbsp&nbsp&nbsp<img src='./resume/action.JPG' width="170" /> 
 <br><br>
-<img src='./resume/action.JPG' width="170" />
 
 ---
